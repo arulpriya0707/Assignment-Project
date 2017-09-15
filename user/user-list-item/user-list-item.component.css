@@ -1,0 +1,8 @@
+.chat-user-list ul {
+    border: 0;
+}
+@media (max-width: 768px) {
+    .chat-user-list {
+        padding: 0;
+    }
+}
